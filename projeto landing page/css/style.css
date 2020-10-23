@@ -1,8 +1,8 @@
-﻿*{
+*{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: "Open Sans";
+	font-family: "Open Sans"
 }
 
 html,body{
@@ -32,7 +32,8 @@ html,body{
 }
 
 .header img{
-	margin: -89px -20px;
+	
+	margin: -55px -30px;
 }
 
 .container-banner{
@@ -92,12 +93,12 @@ html,body{
 	margin-top:8px;
 	width: 344px;
 	height: 55px;
-	padding:8px 10px;
+	padding:8px 10px 8px 10px;
 	border:1px solid #ccc;
 }
 
-.input-container input[type=text]:focus {
-	outline:0;
+.input-container input[type=text]:focus{
+	outline: 0;
 }
 
 .form .input-submit-container{
@@ -114,7 +115,6 @@ html,body{
 	border-top:0;
 	border-right: 0;
 	border-left: 0;
-	border-radius: 10px;
 	cursor: pointer;
 	border-bottom: 5px solid #4A5097;
 }
